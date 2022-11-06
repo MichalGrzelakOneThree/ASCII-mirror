@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="ASCII_Mirror.ASCII_Mirror-task-build-classes-java.main" target="13" />
+      <module name="ASCII_Mirror.ASCII_Mirror-task-build-generated-sources-annotationProcessor-java.main" target="13" />
+      <module name="ASCII_Mirror.ASCII_Mirror-task-build-generated-sources-headers-java.main" target="13" />
+      <module name="ASCII_Mirror.ASCII_Mirror-task-build-reports-tests.main" target="13" />
+      <module name="ASCII_Mirror.ASCII_Mirror-task-build-test-results.main" target="13" />
+      <module name="ASCII_Mirror.ASCII_Mirror-task-build-tmp.main" target="13" />
+      <module name="ASCII_Mirror.ASCII_Mirror-task.main" target="13" />
+      <module name="ASCII_Mirror.Topics-Default_methods-Add_new_default_method.main" target="13" />
+      <module name="ASCII_Mirror.Topics-Default_methods-Implement_a_default_method.main" target="13" />
+      <module name="ASCII_Mirror.Topics-Default_methods-Resolve_a_diamond_problem.main" target="13" />
+      <module name="ASCII_Mirror.Topics-Default_methods-Theory.main" target="13" />
+      <module name="ASCII_Mirror.Topics-Default_methods-What_is_a_result.main" target="13" />
+      <module name="ASCII_Mirror.util.main" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

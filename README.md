@@ -20,5 +20,5 @@ Mirrors are strange, indeed. Let's investigate!<br>
 <b>Stage 5/5:</b>
 You have a clue. Let's fix the mirror thing and wave goodbye to the beautiful ASCII lands<br>
 
-Final source code for last stage can be found below:
+Final source code for last stage can be found below:<br>
 https://github.com/MichalGrzelakOneThree/ASCII-mirror/blob/main/ASCII%20Mirror/task/src/asciimirror/Main.java

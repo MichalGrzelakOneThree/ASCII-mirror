@@ -5,7 +5,11 @@ Fun educational project (mirroring text)
 
 <b>Description via Jet Brains Academy (educational platform):</b>
 
-Far, far away, in the ASCII lands, there are ASCII animals that urgently need your help. Something is not right with their mirrors — they appear crooked. Let's help them with this anomaly and hit the road.
+Far, far away, in the ASCII lands, there are ASCII animals that urgently need your help. Something is not right with their mirrors — they appear crooked. Let's help them with this anomaly and hit the road.<br>
+
+Full description:<br>
+https://hyperskill.org/projects/260?track=12
+
 
 <b>What you'll do and what you'll learn:</b>
 
